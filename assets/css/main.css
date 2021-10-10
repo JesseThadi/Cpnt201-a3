@@ -1,0 +1,111 @@
+body {
+  background-color: rgb(172, 172, 172);
+}
+
+main {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.logo-1 {
+  max-width: 400px;
+  height: auto;
+}
+
+.large-circle {
+  fill:#072f54 ;
+  stroke: black;
+}
+
+.small-circle {
+  fill:#f6911b;
+  stroke: black;
+}
+
+.large-leaf {
+  fill: #4ca456;
+  stroke:white;
+}
+
+.small-leaf {
+  fill: #21702a;
+  stroke:white;
+
+}
+
+
+
+
+
+
+
+
+.logo-2 {
+  max-width: 400px;
+  height: auto;
+}
+
+.large-circle-2 {
+  fill:black;
+  stroke: rgb(36, 209, 20);
+}
+
+.small-circle-2 {
+  fill:black;
+  stroke: rgb(36, 209, 20);
+}
+
+.large-leaf-2 {
+  fill: rgb(255, 255, 255);
+  stroke:rgb(36, 209, 20);
+}
+
+.small-leaf-2 {
+  fill: rgb(255, 255, 255);
+  stroke:rgb(36, 209, 20);
+}
+
+
+
+
+
+
+
+
+.logo-3 {
+  max-width: 400px;
+  height: auto;
+}
+
+.large-circle-3 {
+  fill:#003d00 ;
+  stroke: black;
+}
+
+.small-circle-3{
+  fill:rgb(255, 255, 255);
+  stroke: black;
+}
+
+.large-leaf-3 {
+  fill: #91c11e;
+  stroke:white;
+}
+
+.small-leaf-3 {
+  fill: #406329;
+  stroke:white;
+}
+
+.large-stem-3 {
+  filter: blur(1px);
+}
+
+.small-stem-3 {
+  filter: blur(1px);
+}
+
+.text-3 {
+  fill:rgb(177, 255, 22);
+}
